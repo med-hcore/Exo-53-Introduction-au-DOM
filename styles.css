@@ -1,0 +1,31 @@
+body {
+    background-color: gray;
+}
+
+.spantest {
+
+}
+
+p {
+    font-size: 30px;
+
+}
+#animation {
+    animation-name: anim;
+    animation-duration: 3s;
+
+}
+
+@keyframes anim {
+    from {
+
+    }
+    to {
+
+
+    }
+
+
+
+
+}
